@@ -1,0 +1,8 @@
+{
+  "name": "mws-restaurant-stage-1-mestre-udacity",
+  "version": "1.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/jorgequintanilha017/mws-restaurant-stage-1-master-udacity.git",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -180,6 +180,9 @@ fillBreadcrumb = (restaurant=self.restaurant) => {
 /**
  * Get a parameter by name from page URL.
  */
+
+
+ 
 getParameterByName = (name, url) => {
   if (!url)
     url = window.location.href;
